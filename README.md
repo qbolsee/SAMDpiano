@@ -9,6 +9,6 @@ More soon.
 
 ## Schematic
 
-![](img/Schematic2.png)
+![](img/schematic.png)
 
 More soon.
